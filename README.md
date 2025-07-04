@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats:
 <table><tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=yaseminozkut&show_icons=true&theme=transparent&hide=issues"  width="300" height="170"></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=yaseminozkut&include_all_commits=true&show_icons=true&theme=transparent&hide=issues"  width="300" height="170"></td>
   <td><img src="https://streak-stats.demolab.com/?user=yaseminozkut&theme=transparent&card_width=300&card_height=170" width="300" height="170"></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminozkut&layout=compact&theme=transparent&card_width=300" width="300" height="170"></td>
 </tr></table>
