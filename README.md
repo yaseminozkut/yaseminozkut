@@ -9,7 +9,7 @@ I am Computer Scientist and M.S student at The Ohio State University, who is pas
 - 🔭 I’m currently working on Deep Learning, Multimodal Learning, VLMs, Agents
 - 🌱 I’m currently learning LangChain/LangGraph, Reid, Multimodal Learning DL models
 - 📫 How to reach me: ozkutyasemin@gmail.com / ozkut.1@osu.edu
-- https://yaseminozkut-portfolio.netlify.app/
+- 🔗 https://yaseminozkut-portfolio.netlify.app/
 
 
 ## My Github Stats:
