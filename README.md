@@ -6,7 +6,7 @@ I am Computer Scientist and M.S student at The Ohio State University, who is pas
 <!-- profile view badge -->
 <img src="https://komarev.com/ghpvc/?username=yaseminozkut&label=Profile%20views&color=0e75b6&style=flat" alt="yaseminozkut" />
 
-- 🔭 I’m currently working on Deep Learning, Multimodal Learning, VLMs, Agents
+- 🔭 I’m currently working on Deep Learning, Multimodal Learning, VLMs, Agents, Computer Vision
 - 🌱 I’m currently learning LangChain/LangGraph, Reid, Multimodal Learning DL models
 - 📫 How to reach me: ozkutyasemin@gmail.com / ozkut.1@osu.edu
 - 🔗 https://yaseminozkut-portfolio.netlify.app/
