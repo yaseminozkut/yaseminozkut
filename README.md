@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Yasemin Ozkut.
-I am Computer Scientist and M.S student at The Ohio State University, who is passionate about AI/ML
+Recent M.Sc. graduate from The Ohio State University, working on AI, machine learning, and computer vision.
+I also build and contribute to projects in different fields on whatever I'm curious about, I really love learning new stuff!
 
 <!--
 **yaseminozkut/yaseminozkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
